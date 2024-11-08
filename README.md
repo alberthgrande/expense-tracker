@@ -33,3 +33,5 @@ You can implement the application using any programming language of your choice.
 # roadmap.sh
 
 Project Page URL : [Expense Tracker](https://roadmap.sh/projects/expense-tracker)
+
+Project Solution URL : [Expense Tracker](https://roadmap.sh/projects/expense-tracker/solutions?u=6479cefec4ec366ad5b78274)
